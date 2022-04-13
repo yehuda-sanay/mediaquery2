@@ -1,0 +1,37 @@
+#gg{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+#pac{
+    width: 30px;
+    height: 30px;
+    display: flex;
+}
+#bb{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+#yy{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    color: yellow;
+}
+#ss{
+    background-image: url(yar.jfif);
+    height: 100px;
+    width: 100px;
+}
+#xx{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+#zz{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    filter: grayscale(100%);
+}
